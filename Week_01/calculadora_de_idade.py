@@ -1,0 +1,5 @@
+print("Informe o ano de nascimento: ")  
+ano_nascimento = int(input())
+print("Informe o ano atual: ")
+ano_atual = int(input())
+print("Sua idade é: ", ano_atual - ano_nascimento)
