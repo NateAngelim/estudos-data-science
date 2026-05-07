@@ -37,4 +37,7 @@ IDE: Visual Studio Code
 
 Terminal: Git Bash
 
-Version Control: Git/GitHub
+Version Control: Git/GitHub### Day 03: String Manipulation
+* **Exercise 1:** Data cleaning using .strip() and .replace().
+* **Exercise 2:** Email validation with logical conditions.
+* **Exercise 3:** Sentence analysis and word reversal.
