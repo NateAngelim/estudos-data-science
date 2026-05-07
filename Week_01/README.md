@@ -47,3 +47,11 @@ Version Control: Git/GitHub### Day 03: String Manipulation
 * **Data Cleaning Script:** I developed a script to clean user data by removing extra spaces, special characters, and replacing underscores with spaces.
 * **Email Validator:** Created a simple tool to validate academic email domains using logical operators and string methods.
 * **Text Analyzer:** I used Python to analyze a sentence, counting specific characters and formatting the text, practicing list slicing to reverse the order of words.
+
+---
+### Day 04: Lists and Tuples
+
+Today I practiced the fundamental differences between Lists (mutable) and Tuples (immutable) in Python.
+
+*   **Exercise 01 - Inventory Management:** Focused on dynamic data handling using `.append()`, `.remove()`, and `sorted()`.
+*   **Exercise 02 - Sensor Registry:** Used a list of tuples to store fixed geographic coordinates, practicing data integrity and string formatting for the terminal.
