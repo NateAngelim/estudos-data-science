@@ -41,3 +41,9 @@ Version Control: Git/GitHub### Day 03: String Manipulation
 * **Exercise 1:** Data cleaning using .strip() and .replace().
 * **Exercise 2:** Email validation with logical conditions.
 * **Exercise 3:** Sentence analysis and word reversal.
+
+### Day 03: String Manipulation in Python (English Descriptions)
+
+* **Data Cleaning Script:** I developed a script to clean user data by removing extra spaces, special characters, and replacing underscores with spaces.
+* **Email Validator:** Created a simple tool to validate academic email domains using logical operators and string methods.
+* **Text Analyzer:** I used Python to analyze a sentence, counting specific characters and formatting the text, practicing list slicing to reverse the order of words.
