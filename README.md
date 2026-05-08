@@ -18,5 +18,24 @@ I am a student based in Fortaleza, focusing on transitioning into Data Science a
 - Data Structures (Lists & Dictionaries)
 - Functions and Clean Code
 
+## 📅 Next Steps: Week 02 Plan
+
+This week focuses on bridging the gap between pure logic and real-world data handling, integrating clean code practices and mathematical foundations.
+
+### **Phase 1: Data I/O & Robustness**
+*   **File Handling (CSV & JSON)**: Learn to read and write external data sources using `open()` and Context Managers.
+*   **Error Handling**: Implementing `try/except` blocks to manage "dirty" data or missing files safely.
+
+### **Phase 2: Refactoring & Clean Code**
+*   **DRY & KISS Principles**: Identifying repetitive logic and simplifying scripts.
+*   **Modularization**: Breaking down Week 01 and Week 02 scripts into specialized, reusable functions.
+
+### **Phase 3: Numeric Foundations**
+*   **NumPy Introduction**: Transitioning from Python lists to optimized numeric arrays.
+*   **Applied Statistics**: Calculating Mean, Median, and Standard Deviation with NumPy, applying current mathematical revisions.
+
+> **Goal**: Create a pipeline that cleans a CSV dataset, performs statistical analysis, and exports a JSON report.
+
+
 ## Contact
 - LinkedIn: [Seu Link Aqui]
