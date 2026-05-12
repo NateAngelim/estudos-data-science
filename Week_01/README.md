@@ -55,3 +55,12 @@ Today I practiced the fundamental differences between Lists (mutable) and Tuples
 
 *   **Exercise 01 - Inventory Management:** Focused on dynamic data handling using `.append()`, `.remove()`, and `sorted()`.
 *   **Exercise 02 - Sensor Registry:** Used a list of tuples to store fixed geographic coordinates, practicing data integrity and string formatting for the terminal.
+
+---
+### Day 05: Sets and Dictionary
+
+Dictionary Exercises: Implemented a word counter that cleans text using Regex and normalizes strings to count word frequency efficiently using the .get() method.
+
+Set Theory Application: Developed a guest list management system using set operations (difference and intersection) to handle data cleaning and unique value identification.
+
+Key Concepts: Data cleaning, error handling with .get() vs. KeyError, and performance optimization using sets for large data comparisons.
