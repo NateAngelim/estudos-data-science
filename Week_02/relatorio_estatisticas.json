@@ -1,0 +1,11 @@
+{
+  "quantidade": 6,
+  "media": 550.2083333333334,
+  "mediana": 200.0,
+  "desvio_padrao": 877.9522151084811,
+  "variancia": 770800.0920138886,
+  "minimo": 35.0,
+  "maximo": 2500.0,
+  "percentil_25": 71.625,
+  "percentil_75": 303.0625
+}

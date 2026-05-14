@@ -35,6 +35,18 @@ This folder documents my daily progress during the second week of my Data Scienc
 - **Key Concepts:** NumPy vectorization, array manipulation, and defensive programming to prevent division by zero.
 - **Goal:** Transform raw values into a normalized range [0, 1], a critical step for preparing data for machine learning models.
 
+### Day 4: Robustness & Clean Code
+
+**Exercise 07: Data Cleaning Pipeline**
+- **Goal**: Read a CSV with "dirty" data, handle errors, and export a JSON report.
+- **Concepts**: `try/except` blocks, Context Managers (`with`), and data validation.
+- **Skills**: Safely converting strings to floats and logging errors for debugging.
+
+**Exercise 08: Applied Statistics with NumPy**
+- **Goal**: Refactor manual logic into modular functions and use NumPy for data analysis.
+- **Concepts**: NumPy Arrays, Descriptive Statistics (Mean, Median, Std Dev, Variance, Percentiles).
+- **Skills**: Transitioning from Python lists to optimized arrays for scientific computing.
+
 ## 🛠️ Tech Stack
 - **Python 3.13.1**
 - **NumPy**

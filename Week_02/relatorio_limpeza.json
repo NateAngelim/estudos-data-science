@@ -1,0 +1,66 @@
+{
+  "resumo": {
+    "total_vendas_validas": 6,
+    "total_erros": 2,
+    "valor_total": 25059.0,
+    "percentual_sucesso": 75.0
+  },
+  "vendas_validas": [
+    {
+      "produto": "Notebook",
+      "quantidade": 5,
+      "preço": 2500.0,
+      "valor_total": 12500.0
+    },
+    {
+      "produto": "Mouse",
+      "quantidade": 20,
+      "preço": 45.5,
+      "valor_total": 910.0
+    },
+    {
+      "produto": "Teclado",
+      "quantidade": 15,
+      "preço": 150.0,
+      "valor_total": 2250.0
+    },
+    {
+      "produto": "Webcam",
+      "quantidade": 12,
+      "preço": 320.75,
+      "valor_total": 3849.0
+    },
+    {
+      "produto": "Mousepad",
+      "quantidade": 30,
+      "preço": 35.0,
+      "valor_total": 1050.0
+    },
+    {
+      "produto": "Fone",
+      "quantidade": 18,
+      "preço": 250.0,
+      "valor_total": 4500.0
+    }
+  ],
+  "erros": [
+    {
+      "linha": 5,
+      "dados": {
+        "produto": "Monitor",
+        "quantidade": "8",
+        "preço": "CORROMPIDO"
+      },
+      "erro": "could not convert string to float: 'CORROMPIDO'"
+    },
+    {
+      "linha": 7,
+      "dados": {
+        "produto": "HD Externo",
+        "quantidade": "10",
+        "preço": "texto_aqui"
+      },
+      "erro": "could not convert string to float: 'texto_aqui'"
+    }
+  ]
+}
