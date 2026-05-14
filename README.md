@@ -1,41 +1,42 @@
-# estudos-data-science
+# Data Science & Analytics Portfolio
+### 🚀 Career Transition: From Logic to Business Impact
 
-# Data Science & AWS Roadmap
-Starting my journey to become a Data Scientist. Here I will store my daily progress.
+This repository documents my professional evolution into Data Science. It is structured as a progressive roadmap, moving from core programming logic to advanced statistical modeling and business problem-solving.
 
-# 5-Month Data Science & AWS Roadmap 🚀
+---
 
-## About Me
-I am a student based in Fortaleza, focusing on transitioning into Data Science and Cloud Computing (AWS). This repository tracks my daily progress.
+## 🛠️ Skills & Roadmap
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 📂 Module 1: The Foundation (Python, Git, & Mathematical Logic) — [IN PROGRESS]
+**Objective:** Building robust pipelines and understanding the "why" behind the numbers.
+- **Key Concepts:** Robust File I/O (CSV/JSON), Error Handling, OOP, and Vectorized Operations.
+- **Math Focus:** Descriptive Statistics, Measures of Central Tendency, and Dispersion.
+- **Featured Work:** [Data Cleaning & Statistical Pipeline (Week 02)](./Week_02/)
 
-## Week 1: Python Foundations
-- Environment setup (VS Code, Python, Git)
-- Variables and Data Types
-- Control Flow (Conditionals & Loops)
-- Data Structures (Lists & Dictionaries)
-- Functions and Clean Code
+### 📂 Module 2: Data Wrangling & Exploratory Analysis (Pandas & SQL) — [NEXT]
+**Objective:** Transforming raw data into structured insights.
+- **Key Concepts:** Joins, Aggregations, Cleaning at Scale, and SQL Querying.
+- **Math Focus:** Correlation vs. Causation, Probability Distributions.
 
-## 📅 Next Steps: Week 02 Plan
+### 📂 Module 3: Statistical Inference & Predictive Modeling — [UPCOMING]
+**Objective:** Building models that predict and generalize.
+- **Key Concepts:** Linear & Logistic Regression, Scikit-Learn, and Model Evaluation.
+- **Math Focus:** Calculus-based Optimization, Linear Algebra for ML.
 
-This week focuses on bridging the gap between pure logic and real-world data handling, integrating clean code practices and mathematical foundations.
+---
 
-### **Phase 1: Data I/O & Robustness**
-*   **File Handling (CSV & JSON)**: Learn to read and write external data sources using `open()` and Context Managers.
-*   **Error Handling**: Implementing `try/except` blocks to manage "dirty" data or missing files safely.
+## 🏗️ Featured Projects
 
-### **Phase 2: Refactoring & Clean Code**
-*   **DRY & KISS Principles**: Identifying repetitive logic and simplifying scripts.
-*   **Modularization**: Breaking down Week 01 and Week 02 scripts into specialized, reusable functions.
+### 📊 [Project 01: Robust Sales Data Pipeline](./Week_02/)
+**Business Problem:** Sales data often arrives with missing values or formatting errors, causing financial report failures.
+**Solution:** Developed a Python pipeline that validates data integrity using nested exception handling and generates automated JSON audit reports.
+**Impact:** Reduced manual data cleaning time and provided instant statistical summaries (Mean, Median, Std Dev) using NumPy for high-performance computation.
 
-### **Phase 3: Numeric Foundations**
-*   **NumPy Introduction**: Transitioning from Python lists to optimized numeric arrays.
-*   **Applied Statistics**: Calculating Mean, Median, and Standard Deviation with NumPy, applying current mathematical revisions.
+---
 
-> **Goal**: Create a pipeline that cleans a CSV dataset, performs statistical analysis, and exports a JSON report.
+## 📈 Performance & Education
+- **Currently Learning:** NumPy optimization and Statistical Foundations.
+- **Goal:** To solve complex business problems through data-driven storytelling.
 
-
-## Contact
-- LinkedIn: [Seu Link Aqui]
+---
+**Connect with me:** [Insert LinkedIn Link] | [Insert Email]

@@ -1,66 +1,49 @@
-# Week 01 - Python Fundamentals
+Week 01 - Python Logic & Data Structures Foundations
+This initial stage focused on building a robust computational foundation. I moved beyond basic syntax to master data sanitization, memory-stable structures, and algorithmic flow control, which are the building blocks of any Data Science pipeline.  
++1
 
-This folder contains the first steps of my Python learning journey, focusing on environment setup and basic logic.
+🎯 Technical Competencies
+1. Scripting & Flow Control
+Logical Architectures: Developed decision-making systems using conditional structures (if/elif/else) and persistent execution flows (ATM Simulator).  
 
-## Exercises:
+Arithmetic Processing: Implemented algorithms for parity checking and automated mathematical tables to practice operator precedence.  
 
-Day 01:
+2. String Engineering & Data Sanitization
+Text Pre-processing: Created scripts for data cleaning using methods like .strip(), .replace(), and advanced slicing to prepare raw strings for analysis.  
 
-* **calculo_media.py**: Practice with data input and float formatting.
-* **idade.py**: Working with different data types (Integers).
-* **conversor_de_moedas.py**: Using variables for simple financial calculations.
+Validation Logic: Developed an email validator to practice membership operators and string pattern identification, ensuring data integrity at the entry point.  
 
-Day 2: Python Fundamentals - Data Science Roadmap
-📝 Learning Logs
-Today I started my 5-month journey into Data Science by mastering the core building blocks of Python logic.
+3. Data Structures: Performance & Integrity
+Mutable vs. Immutable (Lists & Tuples): Implemented an Inventory Management system to practice dynamic data handling (Lists) and used Tuples for fixed geographic coordinates to ensure data immutability.  
 
-Topics Covered:
-Operator Types: Practiced arithmetic, comparison, assignment, logical, identity, and membership operators.
+Optimized Retrieval (Dictionaries & Sets):
 
-Indentation & Blocks: Learned how Python uses whitespace to define code structure.
+Word Frequency Analyzer: Leveraged Dictionaries and the .get() method for efficient key-value mapping and frequency counting in unstructured text.  
 
-Conditional Structures: Implemented decision-making logic using if, elif, and else statements.
+Set Theory Application: Applied mathematical set operations (difference, intersection) to manage unique guest lists and perform duplicate removal, optimizing lookup performance.  
 
-Repetition Structures (Loops): Explored data iteration using for (with range) and while loops.
+💻 Exercises Summary
+Exercise	Core Concept	Practical Application
+calculo_media.py	Numeric Formatting	
+Financial and average calculations.  
 
-💻 Practical Exercises Developed
-Parity Checker: A script to determine if a number is even or odd using the modulus operator (%).
+atm_simulator.py	Flow Control	
+Persistent logic and terminal-based state management.  
 
-Automatic Multiplication Table: A program that generates tables from 1 to 10 for any given integer using a for loop.
+text_analyzer.py	String Manipulation	
+Automated text cleaning and data normalization.  
 
-ATM Simulator: A terminal-based menu system demonstrating persistent loops (while), multiple conditions (elif), and loop termination (break).
+inventory_manager.py	Dynamic Lists	
+CRUD operations (Create, Read, Update, Delete).  
+
+word_counter.py	Dictionaries	
+Frequency mapping and text pattern analysis.  
 
 🛠️ Environment & Tools
-Language: Python 3.13.1
+Language: Python 3.13.1.  
 
-IDE: Visual Studio Code
+IDE: Visual Studio Code.  
 
-Terminal: Git Bash
+Version Control: Git/GitHub (Branching and meaningful commit history).  
 
-Version Control: Git/GitHub### Day 03: String Manipulation
-* **Exercise 1:** Data cleaning using .strip() and .replace().
-* **Exercise 2:** Email validation with logical conditions.
-* **Exercise 3:** Sentence analysis and word reversal.
-
-### Day 03: String Manipulation in Python (English Descriptions)
-
-* **Data Cleaning Script:** I developed a script to clean user data by removing extra spaces, special characters, and replacing underscores with spaces.
-* **Email Validator:** Created a simple tool to validate academic email domains using logical operators and string methods.
-* **Text Analyzer:** I used Python to analyze a sentence, counting specific characters and formatting the text, practicing list slicing to reverse the order of words.
-
----
-### Day 04: Lists and Tuples
-
-Today I practiced the fundamental differences between Lists (mutable) and Tuples (immutable) in Python.
-
-*   **Exercise 01 - Inventory Management:** Focused on dynamic data handling using `.append()`, `.remove()`, and `sorted()`.
-*   **Exercise 02 - Sensor Registry:** Used a list of tuples to store fixed geographic coordinates, practicing data integrity and string formatting for the terminal.
-
----
-### Day 05: Sets and Dictionary
-
-Dictionary Exercises: Implemented a word counter that cleans text using Regex and normalizes strings to count word frequency efficiently using the .get() method.
-
-Set Theory Application: Developed a guest list management system using set operations (difference and intersection) to handle data cleaning and unique value identification.
-
-Key Concepts: Data cleaning, error handling with .get() vs. KeyError, and performance optimization using sets for large data comparisons.
+Terminal: Git Bash.
